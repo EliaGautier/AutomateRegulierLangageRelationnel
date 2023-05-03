@@ -36,7 +36,7 @@ namespace AutomateRegulier.Modele.Algorithme.Fabrique
             //-------- TODO : Enregistrer ici vos algorithmes ---------
             this.Enregistrer(new MakerAlgorithmeExemple());
             Enregistrer(new MakerAlgorithmeHttp());
-
+            Enregistrer(new MakerAlgorithmeHttpOuWww());
 
 
 

@@ -84,6 +84,9 @@ namespace AutomateRegulier.VueModele
             this.mots.Add(new VMMot("http://test"));
             this.mots.Add(new VMMot("http://"));
             this.mots.Add(new VMMot("hhttp://"));
+            this.mots.Add(new VMMot("www.test"));
+            this.mots.Add(new VMMot("wwww"));
+
         }
 
         /// <summary>
